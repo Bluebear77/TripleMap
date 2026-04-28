@@ -1,4 +1,4 @@
-# TripleMap Operational System
+# TripleMap: Hybrid Schema-Grounded Table-Text RDF Triple Extraction with LLMs
 
 ## Overview
 This repository contains pipeline scripts for the **TRIPLET Challenge Subtask 2**, covering three datasets:
